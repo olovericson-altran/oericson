@@ -1,0 +1,12 @@
+{
+  "name": "bot-framework-test",
+  "version": "0.0.0",
+  "description": "BotFrameworkTest",
+  "main": "app.js",
+  "author": {
+    "name": "oericson"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
